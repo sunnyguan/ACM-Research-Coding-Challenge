@@ -19,3 +19,7 @@ Libraries used:
 1. Pandas for importing CSV
 2. SKLearn for K-Means clustering algorithm
 3. Matplotlib for graph
+
+Sources:
+
+1. [StackOverflow post for inertia_](https://stackoverflow.com/questions/19197715/scikit-learn-k-means-elbow-criterion)
