@@ -10,7 +10,7 @@ Regardless if you can or cannot answer the question, provide a short explanation
 
 ## Solution
 
-To find the best number of means for a k-means clustering problem, I chose to use the "elbow method." By graphing the total distance from each point to its cluster's centroid, I was able to spot the elbow spot with 3 clusters. Implementation can be seen in `main.py`.
+To find the best number of clusters for a k-means clustering problem, I chose to use the "elbow method." By graphing the total distance from each point to its cluster's centroid, I was able to spot the elbow spot with 3 clusters. Implementation can be seen in `main.py`.
 
 ![Elbow image](elbow.png)
 
